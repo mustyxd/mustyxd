@@ -1,1 +1,1 @@
-[![MustyXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustyxd&theme=codeSTACKr)](https://github.com/mustyxd/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mustyxd&bg_color=00000000&hide_border=true&text_color=FF0000&title_color=FFFF00&custom_title=Stats)](https://github.com/mustyxd/github-readme-stats)
