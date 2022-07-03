@@ -1,13 +1,13 @@
 Welcome To My Github Page 👋
 
 **Programming Languages:**
-HTML
-CSS
-Javascript
+HTML,
+CSS,
+Javascript,
 Unity C#
 
 **Learning:**
-Svelte
-Electron
+Svelte,
+Electron,
 Three.js
 
