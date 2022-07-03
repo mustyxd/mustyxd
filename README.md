@@ -1,12 +1,12 @@
 Welcome To My Github Page 👋
 
-**Programming Languages**
+**Programming Languages:**
 HTML
 CSS
 Javascript
 Unity C#
 
-**Learning**
+**Learning:**
 Svelte
 Electron
 Three.js
