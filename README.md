@@ -5,9 +5,9 @@ HTML,
 CSS,
 Javascript,
 Unity C#
+Svelte,
+Electron
 
 **Learning:**
-Svelte,
-Electron,
 Three.js
 
